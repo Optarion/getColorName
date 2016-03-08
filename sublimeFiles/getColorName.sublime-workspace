@@ -1,0 +1,777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curre",
+				"currentItem"
+			],
+			[
+				"pre",
+				"preselectedItem"
+			],
+			[
+				"data-cs-",
+				"data-cs-isHide"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"save",
+				"saveBlock"
+			],
+			[
+				"flex",
+				"flex-basis: "
+			],
+			[
+				"tab",
+				"tablet-portrait"
+			],
+			[
+				"list-style",
+				"list-style-type: "
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"border-c",
+				"border-collapse: "
+			],
+			[
+				"text",
+				"text-transform: "
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"max-",
+				"max-width: "
+			],
+			[
+				"padding",
+				"padding-bottom: "
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"margin",
+				"margin-bottom: "
+			],
+			[
+				"Current",
+				"currentChoice"
+			],
+			[
+				"curr",
+				"currentisIncomp"
+			],
+			[
+				"t",
+				"toggle"
+			],
+			[
+				"on",
+				"cs-openOnLoad"
+			],
+			[
+				"currentComp",
+				"currentCompatibility"
+			],
+			[
+				"in",
+				"incompatiblesItems"
+			],
+			[
+				"comp",
+				"compPossibilties"
+			],
+			[
+				"compa",
+				"compatibilities"
+			],
+			[
+				"togg",
+				"toggleContent"
+			],
+			[
+				"tra",
+				"translateX"
+			],
+			[
+				"cs",
+				"cs-tooltip-content"
+			],
+			[
+				"tr",
+				"translateY"
+			],
+			[
+				"parent",
+				"parentWidth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/getColorName/index.php",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/getColorName"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/tooltip.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/cards.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/11-pg58-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/popin.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/cards.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/hide.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/hide.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/08-pg53-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_notifications.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/sections/_pf2.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/03-pg42-int-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/14-pg56-popinIncomp-motorisation-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/10-pg65-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_popin.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/sections/_pg56.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_cards.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/scrollTo.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/scrollTo.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patternlab-files/styleguide.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patternlab-files/viewall.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patternlab-files/pattern-header-footer/footer.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/09-pg57-incompatibilite-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/tranches/pg57.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/notification.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/main.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/14-pg56-popin-motorisation-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_cart.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/04-pages/04-motorisation-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/04-pages/03-finitions-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/03-motorisation/01-pg56-popinIncomp-motorisation-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/02-finitions/01-pg57-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/06-components/04-save.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/00-atoms/09-save/00-message.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/sauvegarde.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/sauvegardePlugin.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/sauvegardePlugin.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/06-components/02-accordion.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/02-finitions/02-pg57-incompatibilite-confishow.json",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/04-pages/03-finitions-confishow.json",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/03-motorisation/01-pg56-popin-motorisation-confishow.json",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_table.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/global/_common.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/global/_mixins.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/02-pg42-ext-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_data/data.json",
+		"/C/xampp/htdocs/PSA/assets/patternlab/patternlab.json",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/03-motorisation/data.json",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/00-atoms/09-save.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/tranches/pg53.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/tranches/pg56.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/tranches/pg56.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/popin.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/03-motorisation/01-pg56-popin-motorisation-confishow.mustache",
+		"/C/Users/Will/Desktop/56bkp.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/sections/56bkp.haml",
+		"/C/Users/Will/Desktop/PG56Bkup.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_inputs.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/confishow.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/11-pg98-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/09-pg57-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/13-pg87-incompatibilite-design-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_design.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_cta.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/node_modules/foundation/scss/foundation/components/_type.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/css/main.css",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_mentions.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/comparator.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/comparator.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_sauvegarde.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/01-design/07-pg87-incompatibilite-design-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/04-pages/02-design-ext-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/patterns/03-templates-01-design-07-pg87-incompatibilite-design-confishow/03-templates-01-design-07-pg87-incompatibilite-design-confishow.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/04-pages/01-design-int-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/tranches/pg64.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/socle.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/tranches/pg42.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/financement.js",
+		"/C/Users/Will/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Will/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/PSA/.git/hooks/prepare-commit-msg",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_tabs.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_breadcrumb.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/sauvegarde.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/00-text/01-heading-price-block-financement.mustache",
+		"/C/xampp/htdocs/testTram/testTram.php",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/patterns/04-pages-03-finitions-confishow/04-pages-03-finitions-confishow.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/02-blocks/00-cart-tabs.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/04-pg96-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/01-design/05-pg96-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/04-pg65-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/01-design/06-pg93-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/07-popin-financement.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/01-design/02-popin-financement.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/06-pg93-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/05-pg97-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/01-design/05-pg97-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/03-templates/02-finitions/02-pg57-incompatibilite-confishow.mustache",
+		"/C/xampp/htdocs/testTram/index.php",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/tranches/pg345.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/patterns/03-templates-02-finitions-00-pg53-confishow/03-templates-02-finitions-00-pg53-confishow.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/patterns/04-pages-03-finitions-confishow/04-pages-03-finitions-confishow2.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/patterns/03-templates-01-design-03-pg42-int-confishow/03-templates-01-design-03-pg42-int-confishow.html",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/toggle.js.REMOTE",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/global/_title.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/common/_title.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/07-sections-pt/03-pt2.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/06-components/03-popin.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/02-blocks/01-cart-tabs-recap.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/02-blocks/00-cart-tabs.mustache.BASE",
+		"/C/xampp/htdocs/PSA/assets/patternlab/public/js/confishow/components/toggle.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/components/toggle.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_toggle.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/_sprites-confishow.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/Gruntfile.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/node_modules/grunt-spritesmith/node_modules/spritesheet-templates/README.md",
+		"/C/xampp/htdocs/PSA/assets/patternlab/node_modules/grunt-spritesmith/src-test/Gruntfile.js",
+		"/C/xampp/htdocs/PSA/assets/Gruntfile.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/_new_sprites.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/06-components/__-accordion.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/00-pg15-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/sections/_pg15.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/sections/_pf58.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/sections/_pf53.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/js/confishow/tranches/pg02.js",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/02-organisms/08-sections-pg/00-pg02-confishow.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/scss/confishow/components/_tooltip.scss",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/06-components/00-notifications.mustache",
+		"/C/xampp/htdocs/PSA/assets/patternlab/source/_patterns/01-molecules/06-components/01-design-select.mustache"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow\\components",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets",
+			"C:\\xampp\\htdocs\\PSA\\assets\\node_modules\\foundation\\scss\\foundation\\components",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow\\components",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\js\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns\\04-pages",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns\\04-pages",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\js\\confishow\\components",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\js\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\public",
+			"C:\\xampp\\htdocs\\PSA\\assets",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns\\02-organisms\\08-sections-pg",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\node_modules\\grunt-spritesmith",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\node_modules\\grunt-spritesmith\\node_modules\\spritesheet-templates\\lib",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\node_modules\\grunt-spritesmith",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss\\confishow",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\js",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns\\02-organisms\\08-sections-pg",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\_patterns\\02-organisms",
+			"C:\\xampp\\htdocs\\PSA",
+			"C:\\xampp\\htdocs\\PSA\\assets",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source",
+			"C:\\xampp\\htdocs\\PSA\\assets\\patternlab\\source\\scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cs-exclude",
+			"autre",
+			"<div class=\"cs-tooltip-content js-cs-choice-exclude\">",
+			"serie",
+			"cs-info",
+			"diesel",
+			" p ",
+			"cs-slide",
+			"next",
+			"1,2l blue hdi 82 BMV5 ",
+			"comparator",
+			">\n",
+			"js-cs-preselectNotification",
+			"choiceIncomp_000000",
+			"moncul",
+			"attr",
+			"popin",
+			"cs-close",
+			".js-cs-preselectNotification",
+			"remcalc",
+			"item",
+			"pg56",
+			"\">\n",
+			"data-cs-hide",
+			"cs-notifi",
+			"origin",
+			"hide",
+			"cs-scrollto",
+			"origin",
+			"data-cs-hideItem",
+			"getCompatibility",
+			"itemToHide",
+			" js-cs-incompContent",
+			"autre",
+			"csGlo",
+			"cs",
+			"autres",
+			"last-of",
+			"cs-checkbox-step1",
+			"h4",
+			"pop",
+			"max-width",
+			"53",
+			"pg53",
+			"validez",
+			"div",
+			"tooltip",
+			"info-table",
+			"cs-feature-row",
+			"div",
+			"cs-info-tabl",
+			"<span class=\"js-cs-choice-exclude\">b</span>",
+			"li",
+			"cs-last-info-table-list",
+			"li",
+			"ul",
+			"aside",
+			"article",
+			"head>",
+			"head",
+			"aside",
+			"ul",
+			"cs-content-list",
+			"article",
+			"cs-header-list-item",
+			"z",
+			"article",
+			" cs-small-flexcell",
+			"div",
+			"li",
+			"cs-show-for-small-only",
+			"cs-info",
+			"with",
+			"div",
+			"too",
+			"span",
+			"cs-info-table-list",
+			"with-info",
+			"tool",
+			"with-info",
+			"cs-tooltip",
+			"info",
+			"pg56",
+			"small",
+			"motor",
+			"span",
+			"cs-big-cell",
+			"show-for",
+			"x-flex",
+			"flex",
+			"show-for-small-only",
+			"hide-for-medium",
+			"hide-for-xlarge",
+			"info-tab",
+			"bold",
+			"td",
+			"cs-text-normalWeight",
+			"@media",
+			"pg56",
+			"pg",
+			"pg57",
+			"57",
+			"56",
+			"xlarge",
+			"show-for-small-only",
+			"foundation",
+			"show-for-small-only",
+			"th",
+			"tr",
+			"cs-radio-label",
+			"cs-radio-label:before",
+			"border-collapse: collapse;",
+			"class=\"js-cs-accordion-content cs-accordion-content ",
+			"bold",
+			"blue",
+			"vehicule000000",
+			"Moteur ajoutée",
+			"Motorisation ajoutée",
+			"<p>\n                    	<span>A partir de <strong><span data-monthly class=\"monthlyPrice\">500</span>€ TTC/mois</strong>*\n                        </span>\n                    </p>\n                    <p class=\"financement small\">\n                    	<span class=\"cs-info js-cs-choice-exclude\" data-cs-openpopin=\"financement\"></span>\n                    	après un premier loyer de <span data-apport>3000</span> € TTC avec la finition ACCESS\n                    </p>",
+			"img-sticker",
+			"nextstep",
+			"/* Default header styles */",
+			"header-bottom-margin",
+			"h1, h2, h3",
+			"\"peugeotlight\", \"peugeot\", \"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif;",
+			"h1, h2, h3",
+			"tech",
+			"cs-mini-table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"js-cs-preselectNotifPg58",
+			"cs-list-container",
+			"cs-label-list-item",
+			"",
+			"cs-big-flexcell",
+			"cs-show-for",
+			"hide-for-large",
+			"cs-radio-label cs-radio-button-left",
+			"class=\"",
+			"93",
+			"Moteur ajouté",
+			"Moteur ajoutée",
+			"<p>\n                    	<span>A partir de <strong><span data-monthly class=\"monthlyPrice\">500</span>€ TTC/mois</strong>*<span class=\"cs-info js-cs-choice-exclude\" data-cs-openpopin=\"financement\"></span>\n                        </span>\n                    </p>\n                    <p class=\"financement small\">\n                    	après un premier loyer de <span data-apport>3000</span> € TTC avec la finition ACCESS\n                    </p>",
+			"<p>\n	<span>A partir de <strong><span data-monthly class=\"monthlyPrice\">500</span>€ TTC/mois</strong>*\n    </span>\n</p>\n\n<p class=\"financement small\">\n	<span class=\"cs-info js-cs-choice-exclude\" data-cs-openpopin=\"financement\"></span>\n	après un premier loyer de <span data-apport>3000</span> € TTC avec la finition ACCESS</p>",
+			"finition",
+			"class=\"cs-popin-finition",
+			"",
+			"data-cs-openpopin=\"87-incompatibilite-design\"",
+			"<p class=\"cs-mini-table-description js-cs-choice-exclude\">Classe energetique</p>",
+			"<li class=\"cs-mini-table-elm cs-tooltip cs-cta cs-link-cta underline js-cs-tooltip js-cs-choice-exclude\">",
+			"<p class=\"cs-mini-table-description cs-cta cs-link-cta underline js-cs-choice-exclude\">Classe energetique</p>",
+			"<img class=\"img-sticker\" alt=\"Label 'Offre Spéciale'\"",
+			"<img src=\"../../img/confishow/infobulle-energy.png\" alt=\"Classe énergétique du moteur\">",
+			"class=\"cs-feature-cell",
+			"<article class=\"cs-serie-content\">",
+			"<aside class=\"cs-aside-serie\">",
+			"Ajouter un moteur",
+			"<input type=\"radio\" value=\"\" name=\"nextStepBtn\" ",
+			"name=\"nextStepComp\"",
+			"{{> molecules-heading-price-block-financement }}",
+			"                    {{> molecules-heading-price-block-financement }}",
+			"</div>",
+			"<div class=\"with-info\"",
+			"div class=\"with-info\"",
+			"name=\"selectItemIncomp\"",
+			"name=\"selectItemComp\"",
+			"name=\"selectItem\"",
+			"{{> organisms-pg57-confishow }}",
+			"data-cs-openpopin=\"65",
+			"{{> organisms-pg97-confishow }}",
+			"{{> organisms-popin-financement }}",
+			"data-cs-scrollTo=\"#cs-comparator\"",
+			"Accéder au comparateur",
+			"<a href=\"#cs-comparator\" class=\"cs-cta cs-link-cta chevron-right comparator-access\" title=\"\">\n                <span class=\"cs-content-cta\">Accédez au comparateur</span>\n            </a>",
+			"<input type=\"radio\" value=\"\" name=\"selectItem\"",
+			"<input type=\"radio\" value=\"\" name=\"nextStepBtn\"",
+			"js-cs-incompContent",
+			"",
+			"class=\"cs-block-color",
+			"js-cs-choice",
+			"data-cs-",
+			"cs-info",
+			"accordion",
+			"cs-accordion",
+			"cs-header",
+			"cs-cs-header",
+			"cs-slice-pg15-confishow",
+			"cs-slice-pf58-confishow",
+			"cs-slice-pf53-confishow",
+			"cs-slice-pg2-confishow",
+			"class=\"cs-info\"",
+			"class=\"cs-info ",
+			".cs-info ",
+			"\"cs-info ",
+			"<div class=\"cs-info ",
+			"cs-accordion",
+			" cs-accordion",
+			" cs-toggle-content",
+			"class=\"cs-toggle-content",
+			"cs-toggle-arrow",
+			"js-cs-toggle",
+			"",
+			"cs-close-toggle",
+			"cs-open-toggle",
+			"cs-save-nav",
+			"cs-save-form",
+			"cs-save-head",
+			"cs-validcheck",
+			"cs-cross",
+			"<p>",
+			"<label>",
+			"cs-hide-step",
+			"cs-config-form",
+			"cs-confirm-mentions",
+			"cs-config-save",
+			"cs-save-notif",
+			"cs-confirm-save",
+			"class=\"cs-save\"",
+			"cs-save-config",
+			"cs-filter-",
+			"filter-container",
+			"js-cs-serie",
+			"cs-serie",
+			"js-cs-serie",
+			"cs-serie",
+			"js-serie",
+			"js-cs-serie",
+			"class=\"cs-serie",
+			"<span class=\"info js-choice-exclude\" data-openpopin=\"financement\"></span>",
+			"                    <span class=\"info js-choice-exclude\" data-openpopin=\"financement\"></span>\n<div class=\"cs-tooltip-content js-choice-exclude\">\n                            <p>Classe énergétique (G/KM)</p>\n                            <img src=\"../../img/confishow/infobulle-energy.png\" alt=\"\">\n                        </div>",
+			"<div class=\"cs-tooltip-content js-choice-exclude\">\n                            <p>Classe énergétique (G/KM)</p>\n                            <img src=\"../../img/confishow/infobulle-energy.png\" alt=\"\">\n                        </div>",
+			"{{> molecules-heading-price-block-financement }}",
+			"<img alt=\"1,2l blue hdi 82 BMV5 (Automatique)\" src=\"../../img/confishow/moteur.jpg\">",
+			"<span class=\"cs-tooltip-content js-choice-exclude\">",
+			"{{> molecules-heading-price-block }}",
+			"<h3 class=\"tech\">\n                                1,2l blue hdi 82 BMV5 (Automatique)\n                            </h3>",
+			"<span style=\"background-color:#97055e\" class=\"sticker\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/getColorName/index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "getColorName.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"_init\\install.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
